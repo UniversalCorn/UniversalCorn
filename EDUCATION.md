@@ -1,4 +1,5 @@
 # Education
 
-- Kiev Polytechnic Institute
-- Metarhia free educational program
+- Lyceum "Naukova zmina"
+- Kyiv Polytechnic Institute
+- Self-education 😊
