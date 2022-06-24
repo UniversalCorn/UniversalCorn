@@ -9,6 +9,6 @@
 <code>📦 Tech stack: vue.js, pixi.js, node.js, express.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@UniversalCorn](https://telegram.me/UniversalCorn)</code>
-<code>📫 [my email](mailto:lazarenkonikita1993@gmail.com)</code>
+<code>📫 my email: [lazarenkonikita1993@gmail.com](mailto:lazarenkonikita1993@gmail.com)</code>
 <code>🌐 Linkedin: [Nikita Lazarenko](https://www.linkedin.com/in/kit-lazar/)</code>
 
